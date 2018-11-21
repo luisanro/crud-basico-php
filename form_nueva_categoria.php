@@ -20,7 +20,7 @@
 		<div class="input-group mb-3">
 				<form style="padding: 10px;" action="agregar_categoria.php" method="post" enctype="multipart/form-data">
 					<label>Nombre de la categoria:</label>
-					<input style="border: 1px solid gray; border-radius: 5px; margin-left: 10px;" type="text" name="categoria">
+					<input required="" style="border: 1px solid gray; border-radius: 5px; margin-left: 10px;" type="text" name="categoria">
 					<br>
 					<div class="input-group-prepend">
 						<label class="input-group-text">Estado:
