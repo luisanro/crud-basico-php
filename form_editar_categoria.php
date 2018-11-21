@@ -30,7 +30,7 @@
 			<form style="padding: 10px;" action="modificar_categoria.php" method="post">
 				<label>Nombre de la categoria:</label>
 				<input type="hidden" name="id_categoria" value="<?php echo $id_categoria; ?>">
-				<input required=""> style="border: 1px solid gray; border-radius: 5px; margin-left: 10px;" type="text" name="categoria" value="<?php echo $categoria;?>">
+				<input required="" style="border: 1px solid gray; border-radius: 5px; margin-left: 10px;" type="text" name="categoria" value="<?php echo $categoria;?>">
 				<br>
 				<div class="input-group-prepend">
 					<label class="input-group-text">Estado:
