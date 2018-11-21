@@ -33,7 +33,6 @@
 						<tr>
 							<th>Opciones</th>
 							<th>Nombre de la categoria</th>
-							<th>Imagen</th>
 							<th >Estado</th>
 						</tr>
 					</thead>
